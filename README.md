@@ -1,5 +1,5 @@
 
-# Health and Nutrition Management System
+# Health and fitness tracking system
 
 ## Overview
 
